@@ -1,0 +1,48 @@
+{
+    "arrestar": [
+        "/me sacó de su cinturón un par de esposas, se situó detras del detenido tomando sus manos y esposándolo.",
+        "/do Las manos del detenido fueron esposadas, y sus brazos puestos hacia atrás, sin ningún tipo de posibilidad de escapar."
+    ],
+    "confiscar": [
+        "/bomba",
+        "/do Podrás apreciar cómo el policia toma el arma de tu cuerpo, y la pone sobre el suelo mientras usted está detenido."
+    ],
+    "subirPatrulla": [
+        "/do Se podrá apreciar como el policía te toma de la cabeza, así mismo abriendo las puertas de la unidad...",
+        "/do y agachando tu cabeza para después ingresarte a ella."
+    ],
+    "liberar": [
+        "/me tomó con ambas manos al detenido, segundos después alejó su mano izquierda y saco de su cinturón las... ",
+        "/do ...llaves de las esposas, liberando al detenido de las mismas."
+    ],
+    "derechos": [
+        "Al ser habitantes de la ciudad de San Andreas cuentan con los siguientes derechos:",
+        "{500}",
+        "Tiene derecho a guardar silencio, todo lo que diga puede y sera usado en su contra.",
+        "{500}",
+        "Tiene derecho a un abogado, si no cuenta con uno se le ofrecera uno de oficio.",
+        "{500}",
+        "Tiene derecho a una llamada, esta se realizará en la central en compañía de un oficial.",
+        "{500}",
+        "Tiene derecho a 3 comidas al día durante su permanecia en prisión.",
+        "{500}",
+        "Tiene derecho a un servicio médico que le atenderá las 24 horas del día en su estadía en la cárcel.",
+        "{500}",
+        "Dictado todo sus derechos me ha de constar que los comprendió en su totalidad...",
+        "{500}",
+        "... y que cualquier duda que usted tenga al respecto será respondida por los guardias."
+    ],
+    "guardias": [
+        "/me llevó su siniestra hacia el centro del volante y con su palma presionó el claxon dos veces.",
+        "{500}",
+        "/do De la puerta principal, saldrían guardias uniformados y armados correspondientemente, estos...",
+        "{500}",
+        "/do ... se acercarían lentamente a la unidad.",
+        "{500}",
+        "Que tal muchachos, pueden proceder. -Exclamó visualizando a los guardias-",
+        "{500}",
+        "/do Dichos guardias abrirían las puertas traseras de la unidad, tomarían a los detenidos y...",
+        "{500}",
+        "/do ...rápidamente los obligaría a bajar para llevarlos a sus respectivo juicio y celda."
+    ]
+}
